@@ -259,6 +259,14 @@
 .imSiteMap img { vertical-align: text-bottom; }
 .imSiteMap li { padding: 5px 0 5px 20px; }
 .imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
 #imSitemapPage { box-sizing: border-box; width: 960px; margin-left: auto; margin-right: auto; padding: 0 5px 0 5px; }
 
 #imHeader_imTextObject_02_wrapper { position: absolute; top: 92px; left: 30px; width: 406px; height: 191px; z-index: 1; overflow-y: hidden; }
@@ -270,9 +278,9 @@
 #imHeader_imCellStyle_3 { width: 400px; min-height: 70px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 #imHeader_imCellStyleGraphics_3 { left: 0px; right: 0px; }
 
-#imFooter_imHTMLObject_03_wrapper { position: absolute; top: 23px; left: 627px; width: 331px; height: 26px; z-index: 1; overflow-y: hidden; }
-#imFooter_imCell_3 { width: 331px; min-height: 350px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-#imFooter_imCellStyle_3 { width: 331px; min-height: 350px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imFooter_imHTMLObject_03_wrapper { position: absolute; top: 23px; left: 3px; width: 955px; height: 26px; z-index: 1; overflow-y: hidden; }
+#imFooter_imCell_3 { width: 955px; min-height: 350px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+#imFooter_imCellStyle_3 { width: 955px; min-height: 350px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 #imFooter_imCellStyleGraphics_3 { left: 0px; right: 0px; }
 #imFooter_imTextObject_04_wrapper { position: absolute; top: 0px; left: 4px; width: 954px; height: 26px; z-index: 2; overflow-y: hidden; }
 #imFooter_imCell_4 { width: 954px; min-height: 23px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
